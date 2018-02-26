@@ -1,18 +1,13 @@
 
-# Nank
-Nank  for gank  by React-Native
+# ReactNativeGankSample
+ReactNativeGankSample  for gank  by React-Native
 
 
-# Thanks
+#Description
 
-RxLifecycle   : https://github.com/trello/RxLifecycle  
-RxJava        : https://github.com/ReactiveX/RxJava  
-RxAndroid     : https://github.com/ReactiveX/RxAndroid  
-retrofit      : https://github.com/square/retrofit  
-RxPermissions : https://github.com/tbruyelle/RxPermissions
+纯ES6写的一个RN项目，首页加入retrofit + rxJava 框架，数据列表采用原生请求并将请求结果传递给RN端，并引入rxLifeCycle控制http的取消 Edit
+Add topics
 
-# Captures
-<img src="./images/1.jpeg" width="270" height="486"> <img src="./images/2.jpeg" width="270" height="486">
 
 # License
 Null...
